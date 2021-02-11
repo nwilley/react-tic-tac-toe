@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe! Just componentized
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project likely looks familiar, because it was directly inspired by the hands-on React tutorial [https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/tutorial/tutorial.html). The key difference between the two apps is that the 'Game', 'Board', and 'Square' portions of Tic-Tac-Toe have been separated into their own components. The purpose of this project is purely to show a small demonstration of componentization in React.
 
 ## Available Scripts
 
